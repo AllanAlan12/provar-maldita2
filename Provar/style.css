@@ -1,0 +1,44 @@
+table , td{
+    border: 1px solid rgb(212, 212, 212);
+    font-family: Sans-Serif,bold;
+    font-size: 15px;
+    text-align: left;
+}
+.classe13{
+    color: #003366;
+    font-size: 18px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.classe14{
+    color: #519de9;
+    font-size: 18px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.classe15{
+    color: #ecb009;
+    font-size: 18px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.classe0{
+    color: #c9c9c9;
+    font-size: 18px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.classe9{
+    color: #830000;
+    font-size: 18px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.morra{
+    background-color: rgb(226, 226, 226)
+}
