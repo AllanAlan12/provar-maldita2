@@ -1,11 +1,13 @@
 td{
     border-block-end: 2px solid rgb(168, 168, 168);
+    border-inline-end: 2px solid rgb(168, 168, 168);
     font-family: Sans-Serif,bold;
     font-size: 15px;
     text-align: left;
 }
 table{
     border: 2px solid rgb(167, 167, 167);
+    
 }
 .classe13{
     color: #003366;
